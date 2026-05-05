@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 🔭 I’m currently working on: A digital  project at SOMACA (Renault Group) as part of my final year internship.<br><br>👯 I’m looking to collaborate on: Innovative software development projects, specifically those involving Java Spring Boot or Flutter.<br>+3<br><br>🤝 I’m looking for help with: Advanced Cloud automation and mastering Azure OpenAI implementations.<br>+1<br><br>🌱 I’m currently learning: Deep Learning architectures and Oracle SQL tuning to optimize large-scale data systems.<br><br>💬 Ask me about: Full-stack development, predictive modeling using LSTM, or how to manage projects effectively with Scrum and Jira.<br>+2<br><br>⚡ Fun fact: I am a professional chess player and have been a passionate football player since 2015.
 
 
